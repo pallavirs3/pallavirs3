@@ -1,4 +1,3 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif]
 <h1 align="center">Hi 👋, I'm Pallavi.R.S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
