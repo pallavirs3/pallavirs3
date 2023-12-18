@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly upload videos on My YouTube Channel [https://youtube.com/@human-aspirant?feature=shared](https://youtube.com/@human-aspirant?feature=shared)
+- 📝 I regularly upload posts  on My LinkedIn account [https://www.linkedin.com/in/pallavi-r-s-7234a820b](https://www.linkedin.com/in/pallavi-r-s-7234a820b)
 
 - 💬 Ask me about **DSA,C++,OOPs,Web dev**
 
