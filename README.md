@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pallavi.R.S</h1>
-<h3 align="center">Passionate about Cyber Security </h3>
+<h3 align="center">Passionate about Full Stack Web Development </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavirs3&label=Profile%20views&color=0e75b6&style=flat" alt="pallavirs3" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
